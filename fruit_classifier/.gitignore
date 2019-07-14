@@ -1,0 +1,7 @@
+# exclude data images and pickle data
+/img/*
+/tests/*
+X.pickle
+y.pickle
+.DS_Store
+
