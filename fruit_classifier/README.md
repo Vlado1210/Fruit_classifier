@@ -1,4 +1,6 @@
-Check out this cool fruit classifier!
+<h2> Fruit Classifier </h2>
+
+Check out this cool fruit classifier made using tensorflow and python!
 
 It's been trained using over 800 images for each label using the [IMAGENET](http://www.image-net.org/) dataset.
 Currently it's only able to classify apples, oranges, bananas, and blueberries however it's berry easy to add more.
